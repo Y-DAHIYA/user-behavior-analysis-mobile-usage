@@ -1,10 +1,9 @@
+streamlit==1.21.0  # or an appropriate version
+pandas==1.5.3      # Ensure compatibility with Streamlit
+setuptools>=67.0.0
+wheel
 imbalanced-learn==0.12.4
 joblib==1.4.2
 matplotlib==3.7.1
 matplotlib-inline==0.1.7
 numpy==1.24.3
-pandas==2.0.3  # compatible version for all libraries
-scikit-learn==1.5.2
-seaborn==0.13.2
-statsmodels==0.14.2
-streamlit==1.21.0
