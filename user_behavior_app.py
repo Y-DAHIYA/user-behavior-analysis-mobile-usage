@@ -1,7 +1,6 @@
 import streamlit as st
 import pickle
 import pandas as pd
-import numpy as np
 
 # Load saved models and encoders using pickle
 with open('random_forest_model.pkl', 'rb') as f:
